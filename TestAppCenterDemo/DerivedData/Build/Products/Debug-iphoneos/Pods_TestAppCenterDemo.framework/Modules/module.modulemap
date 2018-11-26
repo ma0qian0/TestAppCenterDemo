@@ -1,6 +1,0 @@
-framework module Pods_TestAppCenterDemo {
-  umbrella header "Pods-TestAppCenterDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}
