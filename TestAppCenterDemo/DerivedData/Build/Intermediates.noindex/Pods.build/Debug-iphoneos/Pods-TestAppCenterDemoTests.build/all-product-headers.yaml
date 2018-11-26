@@ -1,0 +1,87 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemo.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TestAppCenterDemo-umbrella.h",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/Pods/Target Support Files/Pods-TestAppCenterDemo/Pods-TestAppCenterDemo-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TestAppCenterDemo-Swift.h",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemo.framework/Headers/Pods_TestAppCenterDemo-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemo.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-TestAppCenterDemo.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemoTests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TestAppCenterDemoTests-umbrella.h",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/Pods/Target Support Files/Pods-TestAppCenterDemoTests/Pods-TestAppCenterDemoTests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TestAppCenterDemoTests-Swift.h",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemoTests.framework/Headers/Pods_TestAppCenterDemoTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemoTests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-TestAppCenterDemoTests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemoUITests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TestAppCenterDemoUITests-umbrella.h",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/Pods/Target Support Files/Pods-TestAppCenterDemoUITests/Pods-TestAppCenterDemoUITests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TestAppCenterDemoUITests-Swift.h",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemoUITests.framework/Headers/Pods_TestAppCenterDemoUITests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Products/Debug-iphoneos/Pods_TestAppCenterDemoUITests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/maqian/Desktop/TestAppCenterDemo/TestAppCenterDemo/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-TestAppCenterDemoUITests.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
